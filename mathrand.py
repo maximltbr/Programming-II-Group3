@@ -2,6 +2,14 @@ import random
 import operator
 import sympy as sp
 def generate_math():
+    """
+    Establish the operators and generate the math equation
+    Param:
+    :None:
+    Returns:
+    :problem: str: The math problem to solve
+    :answer: float: The answer to the math problem
+    """
     operators = {
         "+": operator.add,
         "-": operator.sub,
@@ -23,6 +31,13 @@ def generate_math():
     return problem, answer
 
 def simplemexecute():
+    """
+    Execute the math problems
+    Param:
+    :None: 
+    Returns:
+    :None:
+    """
     while True:
         problem, answer = generate_math()
         print(f"Solve: {problem} = ?")
@@ -40,6 +55,14 @@ def simplemexecute():
             print("Please enter a number or 'q' to quit.")
             
 def generatedifint():
+    """
+    Generate a differentiation or integration problem
+    Param:
+    :None:
+    Returns:
+    :problem: str: The math problem to solve
+    :solution: str: The answer to the math problem
+    """
     x = sp.Symbol('x')
     
     # Generate random polynomial coefficients and exponents
@@ -59,6 +82,13 @@ def generatedifint():
     return problem, solution
     
 def difintexecute():
+    """
+    Execute the differentiation and integration problems
+    Param:
+    :None:
+    Returns:
+    :None:
+    """
     while True:
         problem, solution = generatedifint()
         print(problem)
@@ -76,6 +106,13 @@ def difintexecute():
             print("Please enter a number or 'q' to quit.")
 
 def mexecute():
+    """
+    Execute the math problems
+    Param:
+    :None:
+    Returns:
+    :None:
+    """
     choice = input("Would you like to 1. Solve math problems or 2. Differentiate/Integrate or 3. Quit? ")
     while True:    
         if choice == "1":
