@@ -63,9 +63,22 @@ def end_game():
     root.unbind("<KeyPress>")
 
 
+def get_rounds():
+    """
+    Asks the user to input the number of rounds and ensures valid integer input.
+    Returns:
+    int: The number of rounds entered by the user.
+    """
+    while True:
+        try:
+            return int(input("Enter the number of rounds (Recommended: 10-30): "))
+        except ValueError:
+            print("Try typing an integer number.")
+
+
 print(
     "Welcome to the Reaction Time Game!\nA color will appear on the screen, and you must press the corresponding key ('r' for red, 'g' for green, etc.) as quickly as possible.\nLet's see how fast your reactions are!")
-rounds = int(input("Enter the number of rounds (Recommended: 10-30): "))
+rounds = get_rounds()
 
 root = tk.Tk()
 root.title("Reaction Time Game")
