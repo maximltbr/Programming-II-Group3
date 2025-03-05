@@ -1,5 +1,10 @@
 import random
 def load():
+    """
+    load flashcards from a file
+    :param: None
+    :return: a dictionary of flashcards, "flashcards"
+    """
     flashcards = {}  # Dictionary to store question-answer pairs
     while True:
         filename = input("Which file would you like to load? ")
@@ -15,6 +20,11 @@ def load():
     return flashcards
 
 def quiz(flashcards):
+    """
+    quiz the user on flashcards
+    :param flashcards: a dictionary of flashcards
+    :return: None
+    """
     structure = input("Would you like 1. Question -> Answer or 2. Answer -> Question? ")
     order = input("Would you like to go in order or random? (Type 'order' or 'random') ")
     keys  = list(flashcards.keys())
@@ -55,6 +65,11 @@ def quiz(flashcards):
                 print("Not Exactly.\n")
                 
 def tutorial():
+    """
+    print a tutorial for the user
+    :param: None
+    :return: None
+    """
     print("This is the flashcard quiz. You will be shown a question or definition, and you will have to provide the corresponding definition or question, respectively.")
     print("You can choose to view the question and provide the answer, or view the answer and provide the question.")
     print("To load a file, please place it in this folder and type the filename (e.g., 'flashcards.txt') when prompted.")
@@ -70,6 +85,11 @@ def tutorial():
 [Paste or upload the content here]""")
 
 def flexecute():
+    """
+    Executes the flashcard quiz
+    :param: None
+    :return: None
+    """
     opening = input("""Welcome to the flashcard quiz! If this is your first time, please type "new" to view the tutorial. Otherwise, hit enter: """)
     if opening == "new":
         tutorial()
