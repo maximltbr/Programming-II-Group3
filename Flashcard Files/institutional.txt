@@ -1,0 +1,52 @@
+The correlation between human well-being and the level of democracy | Quite low; Representative democracy is not enough for creating human well-being  
+The correlation between human well-being and the level of government effectiveness | Administrative capacity, Rule of law, Control of corruption; Strong effect on human well-being (e.g., life satisfaction, social trust, political legitimacy)  
+The problem of credibility | Enforcement mechanism allowing credibility of promises made by elites (e.g., policy reform promises)  
+Prisoner's dilemma | Individual wealth-maximizing behavior leads to suboptimal group outcomes; Institutions help create cooperation  
+Assumptions of the standard behavioral model of economics | Individuals maximize preferences, are completely rational, and face no market transaction costs  
+Limitations of the standard behavioral model of economics | Transitivity, Framing effects, Preference reversals, Subjective probability formulation and processing issues  
+The condition for game-theoretic cooperation | Repeated interaction, Complete information, Small number of players  
+Bounded rationality | Incomplete information, Simplified interactions, Consideration of economic exchange costs (info, search, negotiation, fulfillment)  
+Transaction cost | If property rights are well-defined and transaction costs are negligible, the market reaches efficient equilibrium (Coase Theorem)  
+Measurement cost | Cost of determining valuable attributes of goods, services, or agent performance  
+Enforcement cost | Costly to ascertain violations, measure damages, apprehend violators  
+Self-enforcing contract | If both parties have an interest in upholding a contract, it may be self-enforcing  
+Agent cost | Principal delegates tasks to an agent; Information asymmetry leads to monitoring costs  
+Definition of institutions | Rules of the game in society; Human-devised constraints shaping human interaction  
+Types of institutions | Informal (culture, altruism, fairness, justice, ideologies); Formal (explicit rules and laws for exchange)  
+Entrepreneur | Responds to changing price ratios by either pursuing opportunities or altering rules/enforcement  
+The impact of institutions on organizations | Institutions shape incentives, skills, and knowledge; Allocative efficiency (optimal resource allocation); Adaptive efficiency (rules shaping economic evolution)  
+The impact of organizations on institutions | Organizations learn, allocate resources, and drive institutional change  
+Sources of institutional change | Changes in relative prices (factor price shifts, info costs, tech advances); Cultural shifts in preferences and tastes  
+Incremental change | New bargains and compromises while maintaining constituent group loyalty  
+Discontinuous change | Power struggles, coalition formation, ideological commitments, and conflicts over rewards  
+Allocative vs. Adaptive efficiency | Allocative (Pareto optimality, resource allocation at a given time); Adaptive (learning, innovation, risk-taking in long-run economic evolution)  
+W. Brian Arthur's model of technological change | Self-enforcing mechanisms (large setup costs, learning effects, coordination effects, adaptive expectations)  
+Path dependence | Existing institutions create network externalities, shaping future choices  
+The geography hypothesis | Tropical climates hinder development due to disease, poor soil (but flawed because historical wealth existed in tropics)  
+The cultural hypothesis | Prosperity linked to ideas, customs, behavior (flawed due to rapid shifts, intra-cultural economic differences)  
+The ignorance hypothesis | Inequality results from policymakers not knowing how to create wealth (flawed due to persistent bad policies for political reasons)  
+Washington Consensus | Policy recommendations for economic growth via macroeconomic stability and market liberalization  
+Political market | Democratic society model with universal suffrage; Checks and balances lower costs; Agency problems limit efficiency  
+North's theory of long-run economic change | Institutions determine economic success by lowering transaction costs and enabling trade expansion  
+Stable patterns of limited cooperation | Tribal exchange, Bazaar economy (high transaction costs, low trust), Caravan trade (protection of goods)  
+Transaction costs in long-distance trade | Agency problem (monitoring costs), Contract enforcement difficulties  
+Institutional innovations in early modern Europe | Capital mobility, Lower info costs, Institutional risk mitigation  
+Forces driving institutional evolution | Economies of scale, Improved enforcement, Role of the state  
+Why Nations Fail (Acemoglu & Robinson) | Political institutions shape economic institutions, determining long-run economic growth  
+Inclusive vs. Extractive institutions | Inclusive (secure rights, free markets, education access); Extractive (entry barriers, elite-designed benefits)  
+Growth under inclusive institutions | Investment security, Market efficiency, Broad participation, Creative destruction  
+Growth under extractive institutions | Elites allocate resources but lack creative destruction  
+Persistence of extractive institutions | Economic losers (monopolies threatened), Political losers (privileged elite fear power loss)  
+UK vs. Spain institutional development | UK (gradual inclusive evolution); Spain (extractive, unstable property rights, economic stagnation)  
+Industrial Revolution and inequality | Institutional variation led to uneven benefits of industrialization  
+Causal inference | Correlation between institutions and prosperity does not prove causation  
+Internal vs. External validity | Internal (correct conclusions for studied cases); External (generalizability to other cases)  
+Colonialism in institutional economics | Colonialism as a key moment creating long-term institutional differences  
+Reversal of fortune (Acemoglu, Johnson, Robinson) | Colonization conditions (high population density → extractive institutions) shape current prosperity  
+Institutional divergence among colonies | Settler mortality influences institutions and economic performance  
+Africa and reversal of fortune argument | Africa was developed pre-colonization; Political and economic development varied across regions  
+Nathan Nunn: African slave trades impact | Depopulation, Weak/predatory states, Ethnic fragmentation, Path-dependent institutions  
+Scramble for Africa | Arbitrary colonial boundaries ignored ethnic and cultural divisions  
+Indirect vs. Direct colonial rule | Acknowledgment by local authorities (indirect) or force in centralized states (direct)  
+Divide and rule strategy | Empowered certain groups for colonial administration, suppressing others (e.g., Hutu vs. Tutsi)  
+Partitioned ethnicities and conflict | Arbitrary colonial borders increased ethnic violence  
