@@ -9,7 +9,6 @@ Repository for final project of Programming II course
 - **Word Jumbler** – Unscramble words to test vocabulary and spelling skills.
 - **Math Quiz Generator** – Solve math problems with adjustable difficulty levels.
 - **Typing Speed Tester** – Measure typing speed and accuracy.
-- **Memory Game** – Recall words or numbers shown briefly on the screen.
 - **Reaction Time Tester** – Test reflex speed with random prompts.
 - **Remember the Order Game** – Recall missing items from a displayed list.
 
