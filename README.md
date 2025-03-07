@@ -2,7 +2,7 @@
 Repository for final project of Programming II course
 
 ## Set Up
-To use the project download the project. To run it type "pip install r - requirements" in the terminal, to load the libraries in the requirements file
+To use the project download the project. To run it type "pip install r - requirements" in the terminal, to load the libraries in the requirements file then run the main.py file
 
 ## Description 
 **BrainTrain** is an interactive, all-in-one study tool designed to enhance learning and cognitive skills through various educational games and exercises. Users can study using flashcards, play word and math-based games, test their typing speed, and measure reaction time while tracking their progress.
