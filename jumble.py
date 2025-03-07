@@ -91,7 +91,7 @@ def jexecute(parent_root=None):
             prompt = f"What is: {shuffle_text(question_text)}" # prompt the user with the shuffled question
             correct_answer = question_text # set the correct answer to the question text
         
-        if hardmode == "h": # if hard mode is on, make the prompt lowercase
+        if hardmode == "hard": # if hard mode is on, make the prompt lowercase
             prompt = prompt.lower()
         
         # create a question label
